@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/XRI_Examples/Scenes/XRI_Examples_Main.unity
+    guid: ba755f5a181505a4799b21685d4c7576
+  - enabled: 1
+    path: Assets/Scenes/StarterScene.unity
+    guid: a0ef5ea50d681e844ad05146f0402e6b
+  - enabled: 1
+    path: Assets/Scenes/Bench Press.unity
+    guid: 1df4dc281302b0c4f96c9f3523d71472
+  - enabled: 1
+    path: Assets/Scenes/curls.unity
+    guid: 75e73d1e8d8f9d949b78484a0c30c948
+  - enabled: 1
+    path: Assets/Scenes/Punch.unity
+    guid: 3635899eab4a2234b8716dd86cab7978
+  - enabled: 1
+    path: Assets/Scenes/GymScene.unity
+    guid: 7db2f646c65534645b330e2c3f0bfaf7
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e7b6cf70c80d6634799bd6c8ea8a47ff, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fba6072275013e6448e381f83d131b7f, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e60ad326389e9b14e9f7ae2c33703862, type: 2}
